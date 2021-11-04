@@ -3,6 +3,7 @@ layout: main
 ---
 
 <ul class="projects-list-wrapper">
+	<!--
 	{% if page.language == "en" %} {% assign i = 0 %} {% for i in (0..site.projects.size) %} {% for
 	project in site.projects %} {% if projects.order == i %}
 	<li class="project-list-element">
@@ -21,4 +22,21 @@ layout: main
 		</a>
 	</li>
 	{% endif %} {% endfor %} {% endfor %} {% endif %}
+	-->
+
+	{% if page.language == "en" %} {% for project in site.projects %}
+	<li class="project-list-element">
+		<a href="{{ project.url | prepend: site.baseurl}}">
+			<img />
+			<p>{{ project.title }}</p>
+		</a>
+	</li>
+	{% endfor %} {% elsif page.language == "es" %} {% for proyecto in site.proyectos %}
+	<li class="project-list-element">
+		<a href="{{ proyecto.url | prepend: site.baseurl}}">
+			<img />
+			<p>{{ proyecto.title }}</p>
+		</a>
+	</li>
+	{% endfor %} {% endif %}
 </ul>
