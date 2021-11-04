@@ -5,9 +5,12 @@ admin_path:
 webhook_url: 
 sections:
 - type: document
+  path: prensa.md
+  label: Prensa
+  match: "**/*"
+- type: document
   path: press.md
   label: Press
-  match: "**/*"
 - type: jekyll-pages
   label: Pages
   create: all
