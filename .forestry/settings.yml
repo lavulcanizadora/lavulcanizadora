@@ -21,7 +21,7 @@ sections:
   path: press.md
   label: Press
 - type: directory
-  path: _bios/**/*
+  path: _bios
   label: Bios
   create: all
   match: "**/*"
