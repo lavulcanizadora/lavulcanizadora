@@ -4,16 +4,6 @@ auto_deploy: false
 admin_path: 
 webhook_url: 
 sections:
-- type: document
-  path: prensa.md
-  label: Prensa
-  match: "**/*"
-- type: document
-  path: press.md
-  label: Press
-- type: jekyll-pages
-  label: Pages
-  create: all
 - type: directory
   path: _proyectos
   label: Proyectos
@@ -22,6 +12,17 @@ sections:
 - type: directory
   path: _projects
   label: Projects
+  create: all
+  match: "**/*"
+- type: document
+  path: prensa.md
+  label: Prensa
+- type: document
+  path: press.md
+  label: Press
+- type: directory
+  path: _bios/**/*
+  label: Bios
   create: all
   match: "**/*"
 upload_dir: uploads
