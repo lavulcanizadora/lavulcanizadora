@@ -11,3 +11,5 @@ fields:
     schema:
       format: markdown
   label: ficha tecnica
+pages:
+- _projects/test.md
