@@ -81,11 +81,13 @@ defaults:
     - scope:
           path: "_projects"
       values:
+          permalink: /en/projects/:path/
           layout: "project"
           language: "en"
 
     - scope:
           path: "_proyectos"
       values:
+          permalink: /es/proyectos/:path/
           layout: "project"
           language: "es"
