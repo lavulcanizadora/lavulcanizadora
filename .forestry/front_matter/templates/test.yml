@@ -18,8 +18,7 @@ fields:
     schema:
       format: markdown
   label: details
-  description: 'Agrega un signo \ al final de cada línea<br>Producido por: \<br>La
-    Vulcanizadora \<br>\<br>2021 \<br>Bogotá'
+  description: Agrega un signo \ al final de cada línea
 - type: field_group_list
   name: images
   label: images
