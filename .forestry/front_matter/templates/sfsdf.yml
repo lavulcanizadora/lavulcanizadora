@@ -1,4 +1,13 @@
 ---
-label: sfsdf
+label: test
 hide_body: false
-fields: []
+fields:
+- name: test
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: test
