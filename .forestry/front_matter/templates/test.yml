@@ -8,8 +8,14 @@ fields:
 - type: text
   name: media
   label: media
-- type: text
-  name: details
+- name: details
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
   label: details
 - type: field_group_list
   name: images
