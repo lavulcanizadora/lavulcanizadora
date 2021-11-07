@@ -11,19 +11,15 @@ fields:
   description: "(film, performance, exhibition...)"
 - name: details
   type: textarea
-  default: |-
-    Producido por: \
-    La Vulcanizadora \
-    \
-    2021 \
-    Bogotá
+  default: ''
   config:
     required: false
     wysiwyg: false
     schema:
       format: markdown
   label: details
-  description: 'Agrega un signo \ al final de cada línea '
+  description: 'Agrega un signo \ al final de cada línea<br>Producido por: \<br>La
+    Vulcanizadora \<br>\<br>2021 \<br>Bogotá'
 - type: field_group_list
   name: images
   label: images
