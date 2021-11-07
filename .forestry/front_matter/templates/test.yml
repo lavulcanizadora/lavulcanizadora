@@ -9,5 +9,3 @@ fields:
     min: 
     max: 
   label: images
-pages:
-- _projects/test.md
