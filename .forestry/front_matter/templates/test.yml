@@ -11,13 +11,19 @@ fields:
   description: "(film, performance, exhibition...)"
 - name: details
   type: textarea
-  default: ''
+  default: |-
+    Producido por: \
+    La Vulcanizadora \
+    \
+    2021 \
+    Bogotá
   config:
     required: false
     wysiwyg: false
     schema:
       format: markdown
   label: details
+  description: 'Agrega un signo \ al final de cada línea '
 - type: field_group_list
   name: images
   label: images
