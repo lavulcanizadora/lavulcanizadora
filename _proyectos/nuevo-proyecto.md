@@ -1,11 +1,7 @@
 ---
 title: nuevo proyecto
 media: film
-details: |-
-  jgjkhj \
-  jfhghkjh\
-  \
-  jhfgdxfhghjj \
+details: "jgjkhj \\\njfhghkjh\\\n\\\njhfgdxfhghjj "
 images: []
 
 ---
