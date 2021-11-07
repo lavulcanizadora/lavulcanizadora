@@ -8,6 +8,7 @@ fields:
 - type: text
   name: media
   label: media
+  description: "(film, performance, exhibition...)"
 - name: details
   type: textarea
   default: ''
