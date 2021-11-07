@@ -25,3 +25,5 @@ fields:
   - type: file
     name: path
     label: path
+pages:
+- _proyectos/nuevo-proyecto.md
