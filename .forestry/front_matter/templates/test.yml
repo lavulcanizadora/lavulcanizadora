@@ -1,6 +1,6 @@
 ---
-label: test
-hide_body: true
+label: Project
+hide_body: false
 fields:
 - type: text
   name: title
