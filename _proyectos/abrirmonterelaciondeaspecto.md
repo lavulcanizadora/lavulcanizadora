@@ -2,12 +2,14 @@
 title: abrir monte&#58; relación de aspecto
 media: exhibition
 details: |-
-    Concepto, curaduría y producción: <br>
-    La Vulcanizadora <br><br>
-    Galería Santa Fe <br>
-    2021 <br>
-    Bogotá, Colombia <br><br>
-    Apoyo a la producción: <br>
+    Concepto, curaduría y producción: \
+    La Vulcanizadora \
+    \
+    Galería Santa Fe \
+    2021 \
+    Bogotá, Colombia \
+    \
+    Apoyo a la producción: \
     Paula Juliana Torrado
 images:
     - path: https://64.media.tumblr.com/08891fb6b6d1ee471b2cb0976d6f2e92/afcaf17769308fa9-44/s2048x3072/2d742b42a1552528610b475ab0b02568ac60310b.jpg

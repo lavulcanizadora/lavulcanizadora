@@ -1,13 +1,12 @@
 ---
 title: abrir monte
 media: film
-# prettier-ignore
 details: |
-   Dirigido por Maria Rojas Arias  
-   2021  
-     
-   16mm. Transfer 4K  
-   25' 47''
+    Dirigido por Maria Rojas Arias \
+    2021 \
+    \
+    16mm. Transfer 4K \
+    25' 47''
 images:
     - path: https://64.media.tumblr.com/26d4629d65bd8bc2165f3ac7671ab9c9/f21824e78b1d1ea8-6a/s2048x3072/8e3123efada4830910ddacfa9539bced35a94987.jpg
     - path: https://64.media.tumblr.com/7ba3f04a0a8fc8b52934206fcf3c3314/f21824e78b1d1ea8-fc/s2048x3072/3c0275852617faef6dea3857b88985f01dc34772.jpg
