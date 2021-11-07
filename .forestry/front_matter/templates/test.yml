@@ -11,6 +11,7 @@ fields:
 - type: text
   name: details
   label: details
+  description: Add two spaces at the end of each line to preserve the line break
 - type: field_group_list
   name: images
   label: images
