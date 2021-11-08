@@ -1,6 +1,6 @@
 ---
 title: siempre hemos estado aquí ¿no?
-media: exhibición
+media: exhibition
 details: |-
     Imágenes, objetos, acciones y encuentros \
     Conversaciones curatoriales \

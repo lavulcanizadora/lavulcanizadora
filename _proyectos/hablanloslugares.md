@@ -1,6 +1,6 @@
 ---
 title: hablan los lugares
-media: curaduría
+media: curatorship
 details: |-
     Programa Curado por La Vulcanizadora
 images:

@@ -1,6 +1,6 @@
 ---
 title: planos, monte y montaje
-media: publicación
+media: publication
 details: |-
     Editado por: \
     [Cajón de Sastre](https://www.cajondesastre.com.co) \

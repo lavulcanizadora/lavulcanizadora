@@ -1,6 +1,6 @@
 ---
 title: no hay monte sin sol
-media: curaduría - performances
+media: curatorship - performances
 details: |-
     Concepto y curaduría: \
     Maria Rojas Arias y Andrés Jurado \

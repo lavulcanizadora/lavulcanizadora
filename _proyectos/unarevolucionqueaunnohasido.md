@@ -1,6 +1,6 @@
 ---
 title: una revolución que aun no ha sido
-media: exhibición
+media: exhibition
 details: |-
     Un proyecto de María Rojas Arias \
     Instalación loops 16mm, video y fotografía \

@@ -1,5 +1,5 @@
 ---
-title: archiviolitica
+title: archiviolítica
 media: performances
 details: |-
     Un proyecto de Andrés Jurado \

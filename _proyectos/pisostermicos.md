@@ -1,6 +1,6 @@
 ---
 title: pisos térmicos
-media: exhibición - curaduría
+media: exhibition - curatorship
 details: |-
     Conversaciones curatoriales \
     \
