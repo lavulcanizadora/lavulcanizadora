@@ -30,4 +30,5 @@ images:
     - path: https://66.media.tumblr.com/e75e4077c8ae8df9e25349b5b8819d2f/60fc6ddf6d89c72a-b3/s2048x3072/8cef868f2bb15782153e9ac3ed28b8159ad3aac6.jpg
     - path: https://66.media.tumblr.com/2dff613d2f0a1f0788c12c0866e5c21c/60fc6ddf6d89c72a-6c/s2048x3072/d4db13c12308ee6d123c5953c3b3e1c7473f4227.jpg
     - path: https://66.media.tumblr.com/61c1bf9e7d00a9a8a6eaab229d5a3c07/60fc6ddf6d89c72a-33/s2048x3072/144cbbd1a8337e166c3e99ce99e53e129e627a1e.jpg
+cover: https://64.media.tumblr.com/a4ec5c22bfa23c6a42ae79ffd8e7e215/be4b5533c24e292d-a3/s1280x1920/6983dc5f3c7e3e1c9aa38b173f0779a54c86a16b.png
 ---
