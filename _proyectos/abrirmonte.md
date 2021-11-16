@@ -15,4 +15,5 @@ images:
     - path: https://64.media.tumblr.com/b5df03d5c76e54c7c0e5d5578d885830/f21824e78b1d1ea8-32/s2048x3072/8248d48c73b3a138506f5f49b99e467001bbe2b6.jpg
     - path: https://64.media.tumblr.com/2ff57dd6ce5a7ac992f839fa29e6fe71/f21824e78b1d1ea8-c6/s2048x3072/4720da13675bf5ea9193d28ab60ada8f63885a20.jpg
     - path: https://64.media.tumblr.com/201175d2e8d1c7d16f9a28b4a5fb1215/f21824e78b1d1ea8-60/s2048x3072/eeebd44333f6c07ac13a7a609dc2802cc2f0721a.jpg
+cover: https://64.media.tumblr.com/39f664956186b7c52c80278a83378755/be4b5533c24e292d-55/s1280x1920/db006023f5f307bf4e48174cf796b84b2c137bf5.png
 ---
