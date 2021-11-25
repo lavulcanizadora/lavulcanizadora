@@ -1,5 +1,5 @@
 ---
 layout: about
 language: "en"
-permalink: /en/about
+permalink: /en/about/index.html
 ---

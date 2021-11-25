@@ -1,5 +1,5 @@
 ---
 layout: press
 language: "es"
-permalink: /es/noticias
+permalink: /es/noticias/index.html
 ---

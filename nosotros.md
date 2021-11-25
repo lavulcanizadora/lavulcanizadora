@@ -1,5 +1,5 @@
 ---
 layout: about
 language: "es"
-permalink: /es/nosotros
+permalink: /es/nosotros/index.html
 ---

@@ -1,5 +1,5 @@
 ---
 layout: projects-list
 language: "es"
-permalink: /es/proyectos
+permalink: /es/proyectos/index.html
 ---
