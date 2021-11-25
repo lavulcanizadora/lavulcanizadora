@@ -1,5 +1,5 @@
 ---
-layout: main
+layout: description
 language: "en"
 permalink: /en
 ---

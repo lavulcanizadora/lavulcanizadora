@@ -2,36 +2,38 @@
 layout: main
 ---
 
-<div class="profiles-wrapper">
-	<div class="profile-element">
-		<div class="profile-picture">
-			<img
-				src="https://64.media.tumblr.com/f24a2dc3d342d9df9b07add65bbef067/d1354c4b02b57ba1-8f/s1280x1920/ca9311b22067040ef9e690c1d56806760a93511d.png"
-			/>
+<div class="about-wrapper">
+	<div class="profiles-wrapper">
+		<div class="profile-element">
+			<div class="profile-picture">
+				<img
+					src="https://64.media.tumblr.com/f24a2dc3d342d9df9b07add65bbef067/d1354c4b02b57ba1-8f/s1280x1920/ca9311b22067040ef9e690c1d56806760a93511d.png"
+				/>
+			</div>
+			<p class="profile-name">maría rojas arias</p>
+			<p class="profile-text">
+				{% if page.language == "en" %} {% capture my_include %} {% include_relative
+				/_bios/maria_en.md %} {% endcapture %} {{ my_include | markdownify }} {% elsif
+				page.language == "es" %} {% capture my_include %} {% include_relative
+				/_bios/maria_es.md %} {% endcapture %} {{ my_include | markdownify }} {% endif %}
+			</p>
 		</div>
-		<p class="profile-name">maría rojas arias</p>
-		<p class="profile-text">
-			{% if page.language == "en" %} {% capture my_include %} {% include_relative
-			/_bios/maria_en.md %} {% endcapture %} {{ my_include | markdownify }} {% elsif
-			page.language == "es" %} {% capture my_include %} {% include_relative /_bios/maria_es.md
-			%} {% endcapture %} {{ my_include | markdownify }} {% endif %}
-		</p>
-	</div>
-	<div class="profile-element">
-		<div class="profile-picture">
-			<img
-				src="https://64.media.tumblr.com/ae123fce91037273f0a8c2da34170702/d1354c4b02b57ba1-c9/s1280x1920/86d3b52d0ca0d8e8c79eba3bc84d62b4fcb29203.png"
-			/>
+		<div class="profile-element">
+			<div class="profile-picture">
+				<img
+					src="https://64.media.tumblr.com/ae123fce91037273f0a8c2da34170702/d1354c4b02b57ba1-c9/s1280x1920/86d3b52d0ca0d8e8c79eba3bc84d62b4fcb29203.png"
+				/>
+			</div>
+			<p class="profile-name">andrés jurado</p>
+			<p class="profile-text">
+				{% if page.language == "en" %} {% capture my_include %} {% include_relative
+				/_bios/andres_en.md %} {% endcapture %} {{ my_include | markdownify }} {% elsif
+				page.language == "es" %} {% capture my_include %} {% include_relative
+				/_bios/andres_es.md %} {% endcapture %} {{ my_include | markdownify }} {% endif %}
+			</p>
 		</div>
-		<p class="profile-name">andrés jurado</p>
-		<p class="profile-text">
-			{% if page.language == "en" %} {% capture my_include %} {% include_relative
-			/_bios/andres_en.md %} {% endcapture %} {{ my_include | markdownify }} {% elsif
-			page.language == "es" %} {% capture my_include %} {% include_relative
-			/_bios/andres_es.md %} {% endcapture %} {{ my_include | markdownify }} {% endif %}
-		</p>
 	</div>
-	<div class="emailContainer">
+	<div class="email-container">
 		<p>lavulcanizadoraco@gmail.com</p>
 	</div>
 </div>

@@ -56,6 +56,23 @@ plugins:
 collections:
     projects:
         output: true
+        order:
+            - openmountain.md
+            - therebirthofcarare.md
+            - nohillwithoutsun.md
+            - openmountainaspectratio.md
+            - planosmonteymontaje.md
+            - fu.md
+            - arevolutionthathasnotbeenyet.md
+            - wewerealwayshereno.md
+            - pisostermicos.md
+            - archiviolitica.md
+            - welcomeinterplanetaryandsiderealspaceconquerors.md
+            - yvuuhzaokaina.md
+            - cortacabezas.md
+            - marandua.md
+            - theplacesspeak.md
+            - whenthesunriseslikearedbomb.md
 
     proyectos:
         output: true
@@ -69,7 +86,7 @@ collections:
             - unarevolucionqueaunnohasido.md
             - siemprehemosestadoaquino.md
             - pisostermicos.md
-            - archiviolitica
+            - archiviolitica.md
             - bienvenidosconquistadoresinterplanetarios.md
             - yvuuhzaokaina.md
             - cortacabezas.md
