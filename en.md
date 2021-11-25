@@ -1,7 +1,7 @@
 ---
 layout: description
 language: "en"
-permalink: /en
+permalink: /en/index.html
 ---
 
 We are a creative laboratory in Cinema, Visual Arts, and Expanded Theater.

@@ -1,7 +1,7 @@
 ---
 layout: description
 language: "es"
-permalink: /es
+permalink: /es/index.html
 ---
 
 Somos un laboratorio de creación en Cine, Artes Visuales y Teatro Expandido.
