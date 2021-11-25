@@ -402,11 +402,11 @@ main {
 /**/
 
 .description-text {
+	position: relative;
+	display: inline-block;
 	color: white;
 	padding-right: 30%;
-	height: 100%;
-	position: relative;
-	top: 50%;
+	top: 45%;
 	transform: translate(0, -50%);
 }
 
