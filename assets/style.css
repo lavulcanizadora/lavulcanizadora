@@ -567,6 +567,18 @@ main {
 	width: 100%;
 }
 
+/**/
+
+.cls-1 {
+	fill: none;
+	stroke: #fff;
+	stroke-linecap: round;
+	stroke-linejoin: round;
+	stroke-width: 2px;
+}
+
+/**/
+
 @media screen and (min-width: 320px) {
 }
 
