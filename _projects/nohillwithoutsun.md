@@ -27,3 +27,8 @@ images:
     - path: https://64.media.tumblr.com/1665b56ffac603bfa0710b6ca1407f3b/bfb0f188703f04f9-42/s2048x3072/1527270aefc04b4f8bd6014da663fa430c87d63d.jpg
 cover: https://64.media.tumblr.com/d9a1527095f6f043687d401ee10ef71b/9ba5d0244808945a-2b/s1280x1920/587b2d1fcaed7a9649a1f2e8114dc5fdc0f69336.png
 ---
+
+This is how it begins: inside a box, a travel camera, a super 8 camera, an audio recorder, and a letter. This box travels by mail for an entire year to different parts of the country—Tolima, Norte de Santander, Chocó, Vichada, Antioquia, Cundinamarca—, to places where the artists who are part of this meeting gather. This practice of collective creation is based on filmic correspondences around narratives about memory, archive, and territory, circulating outside the virtual platforms and, alternatively, using, re-imagining and sharing narratives that fall to a common practice.
+<br>
+<br>
+No hay monte sin sol (No Hill Without Sun) is an expanded film series where artists from different disciplines intervene through filmic correspondence. The epistolary materials (super 8mm, video, texts, sound) are assembled during the staging phase.

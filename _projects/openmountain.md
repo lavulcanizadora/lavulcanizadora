@@ -17,3 +17,24 @@ images:
     - path: https://64.media.tumblr.com/201175d2e8d1c7d16f9a28b4a5fb1215/f21824e78b1d1ea8-60/s2048x3072/eeebd44333f6c07ac13a7a609dc2802cc2f0721a.jpg
 cover: https://64.media.tumblr.com/39f664956186b7c52c80278a83378755/be4b5533c24e292d-55/s1280x1920/db006023f5f307bf4e48174cf796b84b2c137bf5.png
 ---
+
+On July 19, 1929, in a town in Colombia, a group of shoemakers fought to improve living and working conditions in the country. They called themselves The Bolsheviks of Líbano Tolima. Their revolution lasted only one day, and its traces were almost completely lost. The women of this village share with Aura, an anarchist grandmother, a feeling that their rebellion is still going on.
+<br>
+<br>
+**Production**
+<br>
+La Vulcanizadora
+<br>
+<br>
+**Co-production**
+<br>
+[Kintop](www.kintop.pt)
+<br>
+<br>
+**With the support of**
+<br>
+Fondo para realización de cortometraje documental. FDC 2020
+<br>
+Berlinale Talents Short Form Campus. 2020
+<br>
+Prince Claus Fund. Next Generation 2019

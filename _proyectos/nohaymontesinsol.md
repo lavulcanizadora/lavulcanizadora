@@ -27,3 +27,33 @@ images:
     - path: https://64.media.tumblr.com/1665b56ffac603bfa0710b6ca1407f3b/bfb0f188703f04f9-42/s2048x3072/1527270aefc04b4f8bd6014da663fa430c87d63d.jpg
 cover: https://64.media.tumblr.com/d9a1527095f6f043687d401ee10ef71b/9ba5d0244808945a-2b/s1280x1920/587b2d1fcaed7a9649a1f2e8114dc5fdc0f69336.png
 ---
+
+Así comienza: en una caja hay una cámara de viaje, una cámara súper 8mm, una grabadora de audio y una carta. Esta caja viaja durante un año por correo postal a diferentes partes del país — Tolima, Norte de Santander, Chocó, Vichada, Antioquia, Cundinamarca—, a lugares en donde se encuentran los artistas que hacen parte de este encuentro. Esta práctica de creación colectiva está basada en correspondencias fílmicas, en torno a narrativas sobre la memoria, el archivo y el territorio, circulando por fuera de las plataformas virtuales y, alternativamente, usando, reimaginando y compartiendo narrativas que se corresponden en una práctica común.
+<br>
+<br>
+No hay monte sin sol es un ciclo de cine expandido, donde artistas de distinta disciplina intervienen a partir de correspondencias fílmicas. Los materiales epistolares (súper 8mm, video, textos, sonido) son ensamblados durante la puesta en escena.
+<br>
+<br>
+**Artistas participantes**
+<br>
+<br>
+**BOGOTÁ- 2021**
+<br>
+Maria Rojas Arias<br>
+Paula Torrado<br>
+Andrés Jurado<br>
+Nicole Manuela Prieto Sotomonte<br>
+Santiago Forero Alarcón<br>
+Pablo BareschFelipe Betancur<br>
+Javier Morales<br>
+David Ospina<br>
+Natalia Pérez<br>
+Carolina Rosero<br>
+Katherine Romero<br>
+<br>
+<br>
+**Con el apoyo de**
+<br>
+Fundación Príncipe Claus para la cultura y el Desarrollo
+<br>
+Idartes – Beca Red Galería Santa Fe 2020

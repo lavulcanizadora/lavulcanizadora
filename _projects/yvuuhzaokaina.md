@@ -10,3 +10,14 @@ images:
     - path: https://66.media.tumblr.com/c5af066ecbccd1e3fcd19e35347cb413/08c912485a80ffab-b8/s2048x3072/90a054ae47eabfd9c07dbffab2948eacc8c27f52.jpg
 cover: https://64.media.tumblr.com/1bad80711bec3ae8516985dd71c814b8/be4b5533c24e292d-b8/s1280x1920/ca23ef0bf8a56b4a63c79133fed2e2603fe71bcc.png
 ---
+
+The word Yvuuhza means people of adornment, of tranquility, of peace. That symbolizes that name. That is why within the four Uitoto peoples that inhabit La Chorrera in the heart of the Colombian Amazon, it has been their responsibility to calm the word, and calm the whole. They do it through a dance that connects with the spirits of nature and drives away the horrors that lie in wait for the world of man.
+<br>
+<br>
+This is the story of the Turañoche clan of the Royal Parrot. The words and movements for the people within the dance have a different function. Tell how the missions, the rubber exploitation, and the armed conflict arose and how they survived.
+<br>
+<br>
+Now, protecting the chagra, adorning life, they confront spirits that still need to be calmed. The creator of the Guadua Jedzua dance said that it is held to tranquilize all kinds of thoughts of violence. The people will dance to receive a brother who returns to the territory after living for a long time in the city.
+<br>
+<br>
+Short film production fund from the Colombian Film Fund. 2020

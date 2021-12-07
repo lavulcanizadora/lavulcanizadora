@@ -16,3 +16,34 @@ images:
     - path: https://66.media.tumblr.com/5885426a7c5e7317222ae1ba31af336a/307c03588e69471a-59/s2048x3072/47a42a0892be90b7373f47349752ad1dbab39d27.jpg
 cover: https://64.media.tumblr.com/083d1c8dde454a6f0a55e823031f6129/be4b5533c24e292d-83/s1280x1920/f6ca9a77c950d3c0a1f4c3f47897933caa1a8982.png
 ---
+
+Fu es el dios del sueño en la cosmogonía Muísca, a quien se le rendía culto en la isla grande de la laguna de "Fúquene", que significa "el lecho del dios Fu". Este cuerpo de agua ubicado a 116 kilómetros de Bogotá tiende a la desaparición. Quienes nacieron aquí, rodeados por el Junco y la Enea (plantas que crecen en la laguna), han dedicado su vida a tejerlas.
+<br>
+<br>
+**Participan**<br>
+Jorge González<br>
+Jorge Castiblanco
+<br>
+<br>
+**Producción**<br>
+La Vulcanizadora
+<br>
+<br>
+**Festivales**<br>
+2018 Florianópolis Audiovisual Mercosul FAM, Brasil (Premio del jurado)<br>
+2018 Festival Internacional de Cine de Gibara. Gibara, Cuba<br>
+2018 Muestra Internacional de Documental de Bogotá MIDBO. Bogotá, Colombia.<br>
+2018 DocBuenos Aires (Museo de Arte Contempóraneo de Buenos Aires. Argentina<br>
+2018 Ultracinema MX. Xalapa, México<br>
+2019 Revolutions per Minute Fest. Boston, USA<br>
+2021 Festival Internacional de la Imagen. Manizalez, Colombia<br>
+2021 Equinoxio. Bogotá, Colombia<br>
+2018 Ultracinema MX. Xalapa, México.
+<br>
+<br>
+**Premios**<br>
+Premio oficial del Jurado mejor corto experimental. FAM. Brasil.
+<br>
+<br>
+**Exhibiciones**<br>
+2020 La Vitrina. Lugar a Dudas. Cali, Colombia.

@@ -13,4 +13,48 @@ images:
     - path: https://66.media.tumblr.com/b42a79094546139decc39d34ef3a0234/7770031474c997ab-12/s2048x3072/fbc5a5950b6a35f71013f6446b663db39e285328.jpg
     - path: https://66.media.tumblr.com/73549fe7c4b720827d8fe8951139aa36/7770031474c997ab-1a/s2048x3072/cbcae7cb52bb15c7444a85f293651efba903b0da.jpg
 cover: https://64.media.tumblr.com/c7854eeb09367e1d55f2765f5c928667/be4b5533c24e292d-fb/s1280x1920/fa59c53af38843e8dc5b6fa451f6ad1ca96cbd86.png
+video-url: https://player.vimeo.com/video/424046100?portrait=0
 ---
+
+El Renacer del Carare es un guion de 19 páginas para una presentación de diapositivas (diaporama) realizado alrededor de 1987 por la Asociación de Trabajadores Campesinos del Carare (ATCC) y CELA Productions. Su propósito fundamental era convertirse en un manifiesto audiovisual que permitiera a la organización exponer las motivaciones de su conformación, las apuestas y los propósitos de su proyecto de vida, su futuro y las estrategias de acción colectiva llevadas a cabo hasta 1987.
+Sin embargo, el proyecto parece estar inacabado. No hay copia de las diapositivas o rastros del casete en el archivo conservado por la ATCC, y se recuerda poco o nada del proyecto entre los miembros de la Asociación.
+Esta película retoma el guion técnico y da vida a esta presentación de diapositivas a través de una película de 16 mm como recomposición y extensión de este proceso de memoria histórica
+<br>
+<br>
+**Narrado por**
+<br>
+Bruno Mazzoldi
+<br>
+<br>
+**Producción**
+<br>
+La Vulcanizadora
+<br>
+<br>
+**Con el apoyo de**
+<br>
+Fundación Sub / liminal
+<br>
+<br>
+**Premios**
+<br>
+FID Marseille. Francia. 2020<br>
+MENCIÓN ESPECIAL DEL PREMIO DE LA COMPETENCIA FLASH
+<br>
+<br>
+**Festivales**
+<br>
+2020 FidMarseille Esteno Mundial<br>
+2020 FidMarseille. Premier mundial<br>
+2020 Muestra Internacional de Documental de Bogotá, Colombia<br>
+2020 Cámara Lúcida. Cuenca, Ecuador<br>
+2020 Festival Internacional de Cine de Cali. Colombia<br>
+2020 Festival Internacional de Cine Colombiano en Buenos Aires<br>
+2021 ARICADOC Festival Internacional de Documental
+<br>
+<br>
+**Links de prensa**<br>
+[Revista cero en conducta.](https://revistaceroenconducta.com/escritos/preterito-imperfecto-del-modo-indicativo/) Muestra Internacional de Documental de Bogotá.<br>
+[FidMarseille.](https://fidmarseille.org/film/el-renacer-del-carare-the-rebirth-of-carare/) El Renacer del Carare<br>
+[FidMarseille.](https://fidmarseille.org/en/entretien-el-renacer-del-carare/) Entrevista Muestra Internacional de Documental de Bogotá.<br>
+[Film-documenataire FR](http://www.film-documentaire.fr/4DACTION/w_fiche_film/60517_1)

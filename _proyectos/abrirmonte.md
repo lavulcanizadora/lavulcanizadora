@@ -17,3 +17,24 @@ images:
     - path: https://64.media.tumblr.com/201175d2e8d1c7d16f9a28b4a5fb1215/f21824e78b1d1ea8-60/s2048x3072/eeebd44333f6c07ac13a7a609dc2802cc2f0721a.jpg
 cover: https://64.media.tumblr.com/39f664956186b7c52c80278a83378755/be4b5533c24e292d-55/s1280x1920/db006023f5f307bf4e48174cf796b84b2c137bf5.png
 ---
+
+El 19 de julio de 1929, en un pueblo de Colombia, un grupo de zapateros luchó por mejorar las condiciones de vida y de trabajo en el país. Se llamaron "Los Bolcheviques del Líbano, Tolima". Su revolución duró solo un día e intentaron borrar sus rastros. Las mujeres de esta vereda se encuentran con Aura, una abuela anarquista, en la sensación de que su rebelión aún sigue sucediendo.
+<br>
+<br>
+**Producción**
+<br>
+La Vulcanizadora
+<br>
+<br>
+**Co-producción**
+<br>
+[Kintop](www.kintop.pt)
+<br>
+<br>
+**Con el apoyo de**
+<br>
+Fondo para realización de cortometraje documental. FDC 2020
+<br>
+Berlinale Talents Short Form Campus. 2020
+<br>
+Prince Claus Fund. Next Generation 2019

@@ -12,3 +12,20 @@ images:
     - path: https://66.media.tumblr.com/eeaec63adcd8e6fa37616cca47b6760b/34156cf9c2161b82-f6/s1280x1920/f1c5c1ae13253c9d044619f5f67bc2cc28b32383.jpg
 cover: https://64.media.tumblr.com/798d4551a95f32a78d0bceccedb2afd2/be4b5533c24e292d-18/s1280x1920/3035fb484f3a2836ed85af69981827ede52d91e2.png
 ---
+
+This program brings together shorts by Colombian filmmakers who work with similar settings in similar places. The practices with film material show how close they are to the experimentation of the forms. Their ways of expressing light impressions connect theirs sensibly with images that differ from industrialized production models. These experiences reveal intimate processes, unveiled by themselves in their labs, where pictures speak differently to the audience. Hesitation, approximations, glazes, are the veins that connect these works
+<br>
+<br>
+deCurators. Brasilía, Brasil (2019)
+<br>
+<br>
+**Filmmakers**<br>
+Manuela Prieto<br>
+Santiago Forero<br>
+Natalia Pérez<br>
+Paula Durán<br>
+Daniel Torres<br>
+Sara Piñeros<br>
+Andrés Jurado<br>
+Germán Ayala<br>
+María Rojas

@@ -21,3 +21,11 @@ images:
     - path: https://64.media.tumblr.com/9e2a5471365d88b753cc459864886562/11ed2989a609c65a-71/s2048x3072/c3f65217b56466f1e0ae08c759a6e48aa43a1d6c.jpg
 cover: https://64.media.tumblr.com/6102e8a2acfb028cc9053b74f468fe63/9ba5d0244808945a-e4/s1280x1920/262c429d94446378e685547f15273aad47e36189.png
 ---
+
+Este libro reflexiona a través de imágenes y textos experimentales sobre el sentido del monte en nuestro contexto y sus historias veladas. El monte emerge aquí la extensión de un cuerpo que, a su vez, es la prolongación de una guerra. Entre los contenidos de Planos, monte y montaje se encuentra la presentación Retratos del paisaje común de Pedro Adrián Zuluaga y textos en clave a lugares de nuestra geografía como el Puente La Unión (Norte de Santander) de Paula Torrado, Líbano (Tolima) de María Rojas Arias, Bello (Antioquia) de Natalia Pérez, Cumaribo (Vichada) de Katherine Romero, La Chorrera (Amazonas) de Andrés Jurado, El Cerrito (Valle del Cauca) de Carolina Rosero, Canaán (Tolima).
+<br>
+<br>
+**Con el apoyo de**
+<br>
+Fundación Príncipe Claus para la cultura y el Desarrollo<br>
+Idartes – Beca Red Galería Santa Fe 2020

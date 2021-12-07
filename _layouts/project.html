@@ -2,10 +2,38 @@
 layout: main
 ---
 
-<h1>{{ page.title }}</h1>
+<div class="project-images-container">
+	{% assign images-length = page.images | size %} {% if images-length > 1 %}
+	<!---->
+	{% include left-arrow.html %} {% include right-arrow.html %}
+	<!---->
+	{% endif %}
+	<div class="slick-carousel">
+		{% for image in page.images %}
+		<div class="project-image-element">
+			<img src="{{ image.path }}" />
+		</div>
+		{% endfor %} {% if page.video-url != null %}
+		<div class="project-video-element">
+			<iframe
+				src="{{ page.video-url }}"
+				allow="autoplay; fullscreen"
+				allowfullscreen=""
+				frameborder="0"
+			></iframe>
+		</div>
+		{% endif %}
+	</div>
+</div>
 
-{% if page.details != null %}
-<div class="project-details">{{ page.details | markdownify }}</div>
-{% endif %} {% for image in page.images %}
-<img src="{{ image.path }}" />
-{% endfor %} {{ content }}
+<div class="project-title-container">
+	<h2>{{ page.title }}</h2>
+	<h5>{{ page.media }}</h5>
+</div>
+
+<div class="project-description-container">
+	{% if page.details != null %}
+	<div class="project-details">{{ page.details | markdownify }}</div>
+	{% endif %}
+	<div class="project-text">{{ content }}</div>
+</div>

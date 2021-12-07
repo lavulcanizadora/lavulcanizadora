@@ -32,3 +32,18 @@ images:
     - path: https://66.media.tumblr.com/61c1bf9e7d00a9a8a6eaab229d5a3c07/60fc6ddf6d89c72a-33/s2048x3072/144cbbd1a8337e166c3e99ce99e53e129e627a1e.jpg
 cover: https://64.media.tumblr.com/a4ec5c22bfa23c6a42ae79ffd8e7e215/be4b5533c24e292d-a3/s1280x1920/6983dc5f3c7e3e1c9aa38b173f0779a54c86a16b.png
 ---
+
+Siempre hemos estado aquí, ¿no?<br>
+Empecemos lo que venimos a hacer a este lugar –Fela Kuti En una sala vacía, a través de una secuencia de acciones, imágenes, objetos y encuentros, nos preparamos para colaborar. Buscamos generar e investigar diferentes maneras de tener esta conversación: ¿cómo son imaginadas las Guyanas, y por extensión el Caribe –si es que lo son– en las preguntas que atañen al continente?<br>
+A lo largo de algunos meses, conversamos sobre las maneras en que debíamos empezar y sobre la forma que tendría. A través de Skype, tres personas en diferentes países, haciéndose preguntas e intercambiando materiales, ideas y recurriendo a artistas. Esta conversación no hubiera sido posible sin aquellos que comparten con nosotros esta curiosidad por el lugar al que nos puede llevar este momento de improvisación en el futuro.
+<br>
+<br>
+**Artistas**<br>
+Luís Vásquez La Roche<br>
+Sandra Brewster<br>
+Hew Locke<br>
+Erika DeFreitas<br>
+Jeannette Ehlers<br>
+Christopher Cozier<br>
+Angélica Piedrahita<br>
+Vito Apushana<br>

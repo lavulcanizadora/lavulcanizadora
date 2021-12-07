@@ -26,3 +26,14 @@ images:
     - path: https://66.media.tumblr.com/a8b8e3feba8fa758443a889cfaf40381/9794c3fadffc098a-dd/s2048x3072/5bfcfc5446e1369285faa4df61c6c6c5a741fc17.jpg
 cover: https://64.media.tumblr.com/051e301abab9a9beb983f8f091840d00/be4b5533c24e292d-8c/s1280x1920/f2206aa7c988a490a042f37f593ab2ce6ae86171.png
 ---
+
+En esta exposición se configuran imágenes que despliegan temperaturas, colores, texturas, cuerpos, y violencias que entre el deseo y el rechazo se relocalizan, saltan entre pisos de calores y fríos, negros y blancos, y con cada salto una mueca. Pero esas muecas y garabatos vienen de una deconstrucción del concepto de Pisos Térmicos que la biología acotó para entender la geografía humana y se traslado a la lectura psicológica y de costumbres de los pueblos. Aquí revelamos algunas infidencias chabacanas de los actores que crearon estos pisos. Los artistas tejieron y desenredaron algunas tramas vibrantes del clima como lente de la cultura.
+<br>
+<br>
+**Artistas**<br>
+Liliana Angulo<br>
+Sofía Gallisá Muriente<br>
+Felipe Arturo<br>
+Jorge González<br>
+Diego Benavides<br>
+Iñaki Chavarri<br>

@@ -51,3 +51,50 @@ if (document.getElementsByClassName("cover-image").length != 0) {
 		}, 10000);
 	}
 }
+
+$(document).ready(function () {
+	$(".slick-carousel").slick({
+		arrows: false,
+		dots: true,
+		adaptiveHeight: true,
+	});
+
+	const leftArrow = document.querySelector(".left-arrow");
+	const rightArrow = document.querySelector(".right-arrow");
+
+	if (leftArrow) {
+		leftArrow.addEventListener("click", () => {
+			$(".slick-carousel").slick("slickPrev");
+		});
+		rightArrow.addEventListener("click", () => {
+			$(".slick-carousel").slick("slickNext");
+		});
+	}
+
+	const projectImagesContainer = document.querySelector(".project-images-container");
+	projectImagesContainer.addEventListener("click", (event) => {
+		if (
+			event.target != leftArrow &&
+			!event.target.classList.contains("project-video-element") &&
+			!event.target.classList.contains("slick-dots")
+		) {
+			$(".slick-carousel").slick("slickNext");
+			console.log(event.target);
+		}
+	});
+});
+
+const setVideosHeight = () => {
+	const projectVideoElements = document.getElementsByClassName("project-video-element");
+	const projectImageElement = document.querySelector(".project-image-element");
+	let newVideoHeight = projectImageElement.getBoundingClientRect().height;
+	for (let i = 0; i < projectVideoElements.length; i++) {
+		projectVideoElements[i].style.height = newVideoHeight + "px";
+	}
+};
+
+$(".slick-carousel").on("init", function () {
+	setTimeout(() => {
+		setVideosHeight();
+	}, 500);
+});

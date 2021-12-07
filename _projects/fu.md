@@ -16,3 +16,33 @@ images:
     - path: https://66.media.tumblr.com/5885426a7c5e7317222ae1ba31af336a/307c03588e69471a-59/s2048x3072/47a42a0892be90b7373f47349752ad1dbab39d27.jpg
 cover: https://64.media.tumblr.com/083d1c8dde454a6f0a55e823031f6129/be4b5533c24e292d-83/s1280x1920/f6ca9a77c950d3c0a1f4c3f47897933caa1a8982.png
 ---
+
+Fu is the God of the dreams in the Muisca cosmogony, who was worshiped on the big island of the "Fúquene" lagoon, which means "the bed of the God Fu". This lagoon is located 116 kilometres from Bogota and tends to disappear. Those who were born here, surrounded by the "Junco" and the "Enea" (plants that grow in the lagoon), have dedicated their lives to weave them.
+<br>
+<br>
+**Cast**<br>
+Jorge González<br>
+Jorge Castiblanco
+<br>
+<br>
+**Production**<br>
+La Vulcanizadora
+<br>
+<br>
+**Film festivals**<br>
+2018 Florianópolis Audiovisual Mercosul FAM, Brazil. (Jury award)<br>
+2018 Festival Internacional de Cine de Gibara. Gibara, Cuba<br>
+2018 Muestra Internacional de Documental de Bogotá MIDBO. Bogotá, Colombia<br>
+2018 DocBuenos Aires (Museum of Contemporary Art of Buenos Aires. Argentina<br>
+2018 Ultracinema MX. Xalapa, México<br>
+2019 Revolutions per Minute Fest. Boston, USA<br>
+2021 Festival Internacional de la Imagen. Manizalez, Colombia<br>
+2021 Equinoxio. Bogotá, Colombia
+<br>
+<br>
+**Awards**<br>
+Award Oficial Jury Best Experimental Film, FAM. Brazil.
+<br>
+<br>
+**Exhibitions**<br>
+2020 La Vitrina. Lugar a Dudas. Cali, Colombia.
