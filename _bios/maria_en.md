@@ -1,4 +1,3 @@
-Visual artist, filmmaker, producer<br /><br />
 [http://mariarojasarias.com/](mariarojasarias.com)<br /><br />
 Visual artist and filmmaker from the National University of Colombia. She works with
 official and unofficial archival materials seeking to articulate in an expanded way the

@@ -1,4 +1,3 @@
-Artista visual, cineasta, productora<br /><br />
 [http://mariarojasarias.com/](mariarojasarias.com)<br /><br />
 Es artista visual y cineasta de la Universidad Nacional de Colombia. Su trabajo artístico
 se desarrolla en los ámbitos audiovisuales e instalativos con la imagen en movimiento.

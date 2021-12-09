@@ -1,4 +1,3 @@
-Artist, Filmmaker, Producer<br /><br />
 [http://andresjurado.com/](andresjurado.com)<br /><br />
 His work explores the intersections between performance, experimental cinema,
 expanded cinema, propaganda, de-colonization, mosquitoes, aliens, the space race,

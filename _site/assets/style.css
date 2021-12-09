@@ -288,6 +288,10 @@ nav {
 	opacity: 1;
 }
 
+.menu-wrapper {
+	display: none;
+}
+
 /**/
 
 section {
@@ -540,7 +544,7 @@ main {
 .about-wrapper {
 	position: relative;
 	width: 100%;
-	padding-bottom: 7%;
+	padding-bottom: 21%;
 }
 
 .profiles-wrapper {
@@ -548,6 +552,7 @@ main {
 	width: calc(100% - 5%);
 	margin-right: 5%;
 	display: flex;
+	padding-bottom: 10%;
 }
 
 .profile-element {
@@ -567,10 +572,176 @@ main {
 	width: 100%;
 }
 
+.profile-name-container {
+	padding-top: 1em;
+	padding-bottom: 1.5em;
+	text-transform: uppercase;
+}
+
+.profile-name-container h2 {
+	font-weight: 900;
+}
+
+/**/
+
+.cls-1 {
+	fill: none;
+	stroke: #000;
+	stroke-linecap: round;
+	stroke-linejoin: round;
+	stroke-width: 2px;
+	opacity: 0.7;
+}
+
+.cls-2 {
+	fill: none;
+	stroke: #000;
+	stroke-linecap: round;
+	stroke-linejoin: round;
+	stroke-width: 1.5px;
+	opacity: 0.7;
+}
+
+/**/
+
+.body-lock {
+	overflow-y: hidden;
+}
+
+/**/
+
 @media screen and (min-width: 320px) {
 }
 
-@media screen and (min-width: 600px) {
+@media screen and (max-width: 600px) {
+	nav {
+		/* height: 2.8em; */
+		height: 100vh;
+		flex-direction: column-reverse;
+		justify-content: space-evenly;
+		align-items: center;
+		align-content: space-around;
+		opacity: 0.8;
+		display: none;
+	}
+
+	.nav-visible {
+		display: flex;
+	}
+
+	.navigation-wrapper {
+		/* width: 85%; */
+		/* flex-direction: row; */
+		/* justify-content: center; */
+		width: 100%;
+		flex-direction: column;
+		justify-content: space-evenly;
+		height: 90%;
+		z-index: 1;
+	}
+
+	.navigation-element {
+		display: contents;
+	}
+
+	.social-icons-wrapper {
+		width: unset;
+		padding-left: unset;
+	}
+
+	.social-icon-element {
+		/* width: 1.7em; */
+		/* height: 1.7em; */
+		/* font-size: 0.8em; */
+		width: 2.2em;
+		height: 2.2em;
+		font-size: 0.9em;
+		margin: 0.4em;
+	}
+
+	.navigation-element a {
+		font-size: 1.5em;
+		opacity: 1;
+	}
+
+	.menu-wrapper {
+		position: fixed;
+		top: 25px;
+		left: 25px;
+		display: block;
+		width: 30px;
+		z-index: 2;
+	}
+
+	.menu-control {
+		display: block;
+		width: 100%;
+		height: 100%;
+	}
+
+	.menu-close {
+		width: 80%;
+	}
+
+	.menu-open-hidden {
+		display: none;
+	}
+
+	.menu-close-hidden {
+		display: none;
+	}
+
+	.dark-nav {
+		background: var(--white);
+	}
+
+	.dark-menu {
+		stroke: var(--white);
+	}
+
+	/**/
+
+	section {
+		height: unset;
+		width: 100%;
+	}
+
+	body {
+		flex-direction: column;
+	}
+
+	.logo-title-element {
+		top: unset;
+		width: 44%;
+		padding-top: 8vh;
+	}
+
+	main {
+		padding-right: 0;
+		width: 100%;
+	}
+
+	.project-text {
+		left: 0;
+		width: 100%;
+	}
+
+	.project-description-container {
+		padding-left: 0.8em;
+		padding-right: 0.8em;
+	}
+
+	.project-title-container {
+		padding-left: 0.8em;
+		padding-right: 0.8em;
+	}
+
+	.slick-slider {
+		margin-bottom: 0;
+	}
+
+	/**/
+
 	.start-logo-title-element {
 		width: 55%;
 	}
@@ -578,9 +749,48 @@ main {
 	.start-logo-title-element:hover {
 		width: 56%;
 	}
+
+	/**/
+
+	.big-section {
+		width: unset;
+	}
+
+	main {
+	}
+
+	.description-text {
+		top: unset;
+		transform: unset;
+		padding: 10%;
+	}
+
+	/**/
+
+	.project-list-element {
+		float: unset;
+		width: unset;
+	}
+
+	/**/
+
+	.profiles-wrapper {
+		width: unset;
+		margin-right: unset;
+		flex-direction: column;
+	}
+
+	.profile-element {
+		width: unset;
+		padding-bottom: 10%;
+	}
+
+	.email-container {
+		margin: 1.5%;
+	}
 }
 
-@media screen and (min-width: 768px) {
+@media screen and (max-width: 768px) {
 	.start-logo-title-element {
 		width: 40%;
 	}
@@ -595,7 +805,7 @@ main {
 	}
 }
 
-@media screen and (min-width: 992px) {
+@media screen and (max-width: 992px) {
 	.start-logo-title-element {
 		width: 30%;
 	}
@@ -605,7 +815,7 @@ main {
 	}
 }
 
-@media screen and (min-width: 1200px) {
+@media screen and (max-width: 1200px) {
 	.start-logo-title-element {
 		width: 30%;
 		max-width: 600px;

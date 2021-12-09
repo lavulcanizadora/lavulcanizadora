@@ -1,4 +1,3 @@
-Artista, cineasta, productor<br /><br />
 [http://andresjurado.com/](andresjurado.com)<br /><br />
 Su trabajo explora los cruces entre performance, cine experimental, cine expandido,
 propaganda, de-colonización, mosquitos, extraterrestres, la carrera aeroespacial, la

@@ -52,6 +52,37 @@ if (document.getElementsByClassName("cover-image").length != 0) {
 	}
 }
 
+const menuOpen = document.querySelector(".menu-open");
+const menuClose = document.querySelector(".menu-close");
+const nav = document.querySelector("nav");
+const body = document.querySelector("body");
+
+const openMenu = () => {
+	if (!menuOpen.classList.contains("menu-open-hidden")) {
+		menuOpen.classList.add("menu-open-hidden");
+		menuClose.classList.remove("menu-close-hidden");
+		nav.classList.add("nav-visible");
+		body.classList.add("body-lock");
+	}
+};
+
+const closeMenu = () => {
+	if (!menuClose.classList.contains("menu-close-hidden")) {
+		menuOpen.classList.remove("menu-open-hidden");
+		menuClose.classList.add("menu-close-hidden");
+		nav.classList.remove("nav-visible");
+		body.classList.remove("body-lock");
+	}
+};
+
+menuOpen.addEventListener("click", () => {
+	openMenu();
+});
+
+menuClose.addEventListener("click", () => {
+	closeMenu();
+});
+
 $(document).ready(function () {
 	$(".slick-carousel").slick({
 		arrows: false,

@@ -10,7 +10,14 @@ layout: main
 					src="https://64.media.tumblr.com/f24a2dc3d342d9df9b07add65bbef067/d1354c4b02b57ba1-8f/s1280x1920/ca9311b22067040ef9e690c1d56806760a93511d.png"
 				/>
 			</div>
-			<p class="profile-name">maría rojas arias</p>
+			<div class="profile-name-container">
+				<h2>maría rojas arias</h2>
+				{% if page.language == "en" %}
+				<h5>visual artist, filmmaker, producer</h5>
+				{% elsif page.language == "es" %}
+				<h5>artista visual, cineasta, productora</h5>
+				{% endif %}
+			</div>
 			<p class="profile-text">
 				{% if page.language == "en" %} {% capture my_include %} {% include_relative
 				/_bios/maria_en.md %} {% endcapture %} {{ my_include | markdownify }} {% elsif
@@ -24,7 +31,14 @@ layout: main
 					src="https://64.media.tumblr.com/ae123fce91037273f0a8c2da34170702/d1354c4b02b57ba1-c9/s1280x1920/86d3b52d0ca0d8e8c79eba3bc84d62b4fcb29203.png"
 				/>
 			</div>
-			<p class="profile-name">andrés jurado</p>
+			<div class="profile-name-container">
+				<h2>andrés jurado</h2>
+				{% if page.language == "en" %}
+				<h5>artist, filmmaker, producer</h5>
+				{% elsif page.language == "es" %}
+				<h5>artista, cineasta, productor</h5>
+				{% endif %}
+			</div>
 			<p class="profile-text">
 				{% if page.language == "en" %} {% capture my_include %} {% include_relative
 				/_bios/andres_en.md %} {% endcapture %} {{ my_include | markdownify }} {% elsif
@@ -34,6 +48,6 @@ layout: main
 		</div>
 	</div>
 	<div class="email-container">
-		<p>lavulcanizadoraco@gmail.com</p>
+		<h2>lavulcanizadoraco@gmail.com</h2>
 	</div>
 </div>
