@@ -1,3 +1,11 @@
+if (document.getElementsByClassName("start-logo-title-element").length != 0) {
+	let logoTitle = document.getElementsByClassName("start-logo-title-element")[0];
+	logoTitle.addEventListener("click", displayMenu);
+	setTimeout(() => {
+		displayMenu(), 3000;
+	});
+}
+
 if (document.getElementsByClassName("cover-video").length != 0) {
 	let currentVideo = Math.floor(Math.random() * 3);
 	let prevVideo = Math.floor(Math.random() * 3);
@@ -19,15 +27,6 @@ if (document.getElementsByClassName("cover-video").length != 0) {
 		}, 5000);
 	}
 }
-
-if (document.getElementsByClassName("start-logo-title-element").length != 0) {
-	let logoTitle = document.getElementsByClassName("start-logo-title-element")[0];
-	logoTitle.addEventListener("click", displayMenu);
-}
-
-setTimeout(() => {
-	displayMenu(), 3000;
-});
 
 function displayMenu() {
 	let bottomMenu = document.getElementsByClassName("bottom-menu-wrapper");
