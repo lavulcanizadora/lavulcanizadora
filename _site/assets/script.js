@@ -21,12 +21,13 @@ if (document.getElementsByClassName("cover-video").length != 0) {
 }
 
 if (document.getElementsByClassName("start-logo-title-element").length != 0) {
-	let logoTitle = document.getElementsByClassName("start-logo-title-element");
-	logoTitle[0].addEventListener("click", displayMenu);
-	setTimeout(() => {
-		displayMenu(), 1000;
-	});
+	let logoTitle = document.getElementsByClassName("start-logo-title-element")[0];
+	logoTitle.addEventListener("click", displayMenu);
 }
+
+setTimeout(() => {
+	displayMenu(), 3000;
+});
 
 function displayMenu() {
 	let bottomMenu = document.getElementsByClassName("bottom-menu-wrapper");
