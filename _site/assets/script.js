@@ -23,6 +23,9 @@ if (document.getElementsByClassName("cover-video").length != 0) {
 if (document.getElementsByClassName("start-logo-title-element").length != 0) {
 	let logoTitle = document.getElementsByClassName("start-logo-title-element");
 	logoTitle[0].addEventListener("click", displayMenu);
+	setTimeout(() => {
+		displayMenu(), 1000;
+	});
 }
 
 function displayMenu() {
@@ -53,33 +56,33 @@ if (document.getElementsByClassName("cover-image").length != 0) {
 	}
 }
 
-document.onload = () => {
-	const menuOpen = document.querySelector(".menu-open");
-	const menuClose = document.querySelector(".menu-close");
-	const nav = document.querySelector("nav");
-	const body = document.querySelector("body");
+const nav = document.querySelector("nav");
+const body = document.querySelector("body");
+const menuOpen = document.querySelector(".menu-open");
+const menuClose = document.querySelector(".menu-close");
 
-	const openMenu = () => {
-		if (!menuOpen.classList.contains("menu-open-hidden")) {
-			menuOpen.classList.add("menu-open-hidden");
-			menuClose.classList.remove("menu-close-hidden");
-			nav.classList.add("nav-visible");
-			body.classList.add("body-lock");
-		}
-	};
+const openMenu = () => {
+	if (!menuOpen.classList.contains("menu-open-hidden")) {
+		menuOpen.classList.add("menu-open-hidden");
+		menuClose.classList.remove("menu-close-hidden");
+		nav.classList.add("nav-visible");
+		body.classList.add("body-lock");
+	}
+};
 
-	const closeMenu = () => {
-		if (!menuClose.classList.contains("menu-close-hidden")) {
-			menuOpen.classList.remove("menu-open-hidden");
-			menuClose.classList.add("menu-close-hidden");
-			nav.classList.remove("nav-visible");
-			body.classList.remove("body-lock");
-		}
-	};
+const closeMenu = () => {
+	if (!menuClose.classList.contains("menu-close-hidden")) {
+		menuOpen.classList.remove("menu-open-hidden");
+		menuClose.classList.add("menu-close-hidden");
+		nav.classList.remove("nav-visible");
+		body.classList.remove("body-lock");
+	}
+};
 
+if (menuOpen != null) {
 	menuOpen.addEventListener("click", openMenu);
 	menuClose.addEventListener("click", closeMenu);
-};
+}
 
 if (document.querySelector(".slick-carousel") != null) {
 	$(document).ready(function () {

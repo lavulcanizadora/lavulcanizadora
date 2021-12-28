@@ -124,6 +124,7 @@ body {
 	flex-direction: row;
 	flex-wrap: nowrap;
 	align-items: center;
+	padding-left: 1em;
 }
 
 .social-icon-element {
@@ -650,6 +651,7 @@ main {
 	.bottom-menu-social {
 		left: 1em;
 		transform: unset;
+		padding: unset;
 	}
 }
 
@@ -717,6 +719,7 @@ main {
 		display: block;
 		width: 100%;
 		height: 100%;
+		cursor: pointer;
 	}
 
 	.menu-close {
