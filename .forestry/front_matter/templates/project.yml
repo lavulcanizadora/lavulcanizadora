@@ -29,3 +29,5 @@ fields:
   config:
     required: false
   label: cover
+pages:
+- _proyectos/yarokamena.md
