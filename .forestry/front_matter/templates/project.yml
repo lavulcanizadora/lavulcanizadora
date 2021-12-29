@@ -24,6 +24,8 @@ fields:
       schema:
         format: markdown
     label: path
-- type: file
-  name: cover
+- name: cover
+  type: text
+  config:
+    required: false
   label: cover
