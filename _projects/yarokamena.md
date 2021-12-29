@@ -16,15 +16,19 @@ cover: https://64.media.tumblr.com/dc94308025bd3a6867282969be9fb05a/723a852af466
 
 This is the story of a Uitoto indigenous person who organized armed resistance to rubber exploitation at the beginning of the 20th century in Casa Arana. Yarokamena, invokes the spiritual and cosmic forces of war, releasing its destructive power from its container that ends up creating a spiral of betrayal and death. This remarkable tale was banned by traditional authorities for its potential to attract young people to revolt and function as a stimulus to resort to witchcraft.
 <br>
+<br>
 This story is told by Gerardo Sueche, councilor of the Uitoto peoples, going through filmic portraits of a delirious Amazon, invaded by technological ruins, dysfunctional antennas, ghost ships, and colonial ghosts housed in the oral memory of the survivors of this episode of exploitation and extractivism; using cinema as a new container for this destructive force.
+<br>
 <br>
 **Production**
 
 La Vulcanizadora
 <br>
+<br>
 **Co-production**
 
 [Kintop](https://www.kintop.pt "Kintop")
+<br>
 <br>
 **Narrated by**
 
