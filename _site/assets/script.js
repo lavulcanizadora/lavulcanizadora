@@ -7,11 +7,6 @@ if (document.getElementsByClassName("start-logo-title-element").length != 0) {
 }
 
 let videosLoaded = false;
-let videos = document.getElementsByClassName("cover-video");
-
-videos[0].addEventListener("loadeddata", (e) => {
-	loadVideoTwo();
-});
 
 const loadVideoTwo = () => {
 	let videos = document.getElementsByClassName("cover-video");
@@ -30,6 +25,10 @@ window.addEventListener("DOMContentLoaded", () => {
 		let currentVideo = Math.floor(Math.random() * 3);
 		let prevVideo = Math.floor(Math.random() * 3);
 		let coverVideos = document.getElementsByClassName("cover-video");
+
+		coverVideos[0].addEventListener("loadeddata", (e) => {
+			loadVideoTwo();
+		});
 
 		randomVideo();
 
