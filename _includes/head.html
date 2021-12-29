@@ -8,7 +8,12 @@
 	<meta name="robots" content="noindex" />
 	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
 	<link rel="shortcut icon" type="image/png" href="{{ site.baseurl }}/assets/favicon.png" />
-	<title>{{ site.title | append: " | " | append: page.title | capitalize }}</title>
+	{% if page.layout == "description" or page.layout == "base" %}
+	<title>{{ site.title }}</title>
+	{% else %}
+	<title>{{ page.title | capitalize | append: " | " | append: site.title }}</title>
+	{% endif %}
+	<!---->
 	{% if page.layout == "project" %}
 	<link
 		href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.5.8/slick.min.css"
