@@ -1,0 +1,23 @@
+---
+label: Project
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: title
+- type: text
+  name: media
+  label: media
+- type: textarea
+  name: details
+  label: details
+- type: field_group_list
+  name: images
+  label: images
+  fields:
+  - type: file
+    name: path
+    label: path
+- type: file
+  name: cover
+  label: cover
