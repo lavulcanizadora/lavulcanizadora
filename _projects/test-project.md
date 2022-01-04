@@ -1,7 +1,7 @@
 ---
 title: test project
 media: film
-details: ''
+details: hjghfgjhkjl
 images:
 - images: ''
 - images: "/uploads/tumblr_af5540b04a5960bc990ca1530d46072b_1e9c0c4f_2048.jpg"
