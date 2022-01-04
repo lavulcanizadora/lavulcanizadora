@@ -26,4 +26,5 @@ fields:
     required: false
   label: cover
 pages:
+- _projects/test-project.md
 - _proyectos/yarokamena.md
