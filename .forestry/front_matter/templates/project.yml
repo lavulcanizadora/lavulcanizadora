@@ -15,15 +15,11 @@ fields:
   name: images
   label: images
   fields:
-  - name: path
-    type: textarea
-    default: ''
+  - name: images
+    type: file
     config:
-      required: false
-      wysiwyg: false
-      schema:
-        format: markdown
-    label: path
+      maxSize: 64
+    label: images
 - name: cover
   type: text
   config:
