@@ -117,10 +117,18 @@ if (menuOpen != null) {
 if (document.querySelector(".slick-carousel") != null) {
 	$(document).ready(function () {
 		$(".slick-carousel").slick({
+			lazyLoad: "ondemand",
+			slidesToShow: 1,
+			slidesToScroll: 1,
 			arrows: false,
 			dots: true,
 			adaptiveHeight: true,
 		});
+
+		$(".slick-carousel").on(
+			"beforeChange",
+			function (event, slick, currentSlide, nextSlide) {}
+		);
 
 		const leftArrow = document.querySelector(".left-arrow");
 		const rightArrow = document.querySelector(".right-arrow");
@@ -142,7 +150,6 @@ if (document.querySelector(".slick-carousel") != null) {
 				!event.target.classList.contains("slick-dots")
 			) {
 				$(".slick-carousel").slick("slickNext");
-				console.log(event.target);
 			}
 		});
 	});
