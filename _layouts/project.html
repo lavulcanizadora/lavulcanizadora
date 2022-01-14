@@ -11,9 +11,7 @@ layout: main
 	<div class="slick-carousel">
 		{% for image in page.images %}
 		<div class="project-image-element">
-			{% if forloop.first %}
 			<img src="{{ image.path }}" />
-			{% endif %}
 		</div>
 		{% endfor %} {% if page.video-url != null %}
 		<div class="project-video-element">
