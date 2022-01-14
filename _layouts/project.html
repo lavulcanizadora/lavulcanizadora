@@ -13,8 +13,6 @@ layout: main
 		<div class="project-image-element">
 			{% if forloop.first %}
 			<img src="{{ image.path }}" />
-			{% else %}
-			<img data-lazy="{{ image.path }}" />
 			{% endif %}
 		</div>
 		{% endfor %} {% if page.video-url != null %}
