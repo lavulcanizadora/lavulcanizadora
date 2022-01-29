@@ -15,7 +15,7 @@ images:
 - path: https://raw.githubusercontent.com/lavulcanizadora/lavulcanizadora/main/uploads/abrir-monte/abrir-monte-5.jpg
 - path: https://raw.githubusercontent.com/lavulcanizadora/lavulcanizadora/main/uploads/abrir-monte/abrir-monte-6.jpg
 - path: https://raw.githubusercontent.com/lavulcanizadora/lavulcanizadora/main/uploads/abrir-monte/abrir-monte-7.jpg
-cover: https://github.com/lavulcanizadora/lavulcanizadora/blob/main/uploads/project-covers/abrir-monte-cover.png
+cover: https://raw.githubusercontent.com/lavulcanizadora/lavulcanizadora/main/uploads/project-covers/abrir-monte-cover.png
 
 ---
 On July 19, 1929, in a town in Colombia, a group of shoemakers fought to improve living and working conditions in the country. They called themselves The Bolsheviks of Líbano Tolima. Their revolution lasted only one day, and its traces were almost completely lost. The women of this village share with Aura, an anarchist grandmother, a feeling that their rebellion is still going on.
