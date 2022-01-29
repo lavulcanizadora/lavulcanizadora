@@ -15,10 +15,10 @@ images:
 - path: https://raw.githubusercontent.com/lavulcanizadora/lavulcanizadora/main/uploads/abrir-monte/abrir-monte-5.jpg
 - path: https://raw.githubusercontent.com/lavulcanizadora/lavulcanizadora/main/uploads/abrir-monte/abrir-monte-6.jpg
 - path: https://raw.githubusercontent.com/lavulcanizadora/lavulcanizadora/main/uploads/abrir-monte/abrir-monte-7.jpg
-cover: https://github.com/lavulcanizadora/lavulcanizadora/blob/main/uploads/project-covers/abrir-monte-cover.png
+cover: https://raw.githubusercontent.com/lavulcanizadora/lavulcanizadora/main/uploads/project-covers/abrir-monte-cover.png
 
 ---
-This is a test. El 19 de julio de 1929, en un pueblo de Colombia, un grupo de zapateros luchó por mejorar las condiciones de vida y de trabajo en el país. Se llamaron "Los Bolcheviques del Líbano, Tolima". Su revolución duró solo un día e intentaron borrar sus rastros. Las mujeres de esta vereda se encuentran con Aura, una abuela anarquista, en la sensación de que su rebelión aún sigue sucediendo. <br> <br> **Producción**
+El 19 de julio de 1929, en un pueblo de Colombia, un grupo de zapateros luchó por mejorar las condiciones de vida y de trabajo en el país. Se llamaron "Los Bolcheviques del Líbano, Tolima". Su revolución duró solo un día e intentaron borrar sus rastros. Las mujeres de esta vereda se encuentran con Aura, una abuela anarquista, en la sensación de que su rebelión aún sigue sucediendo. <br> <br> **Producción**
 <br>
 La Vulcanizadora
 <br>
