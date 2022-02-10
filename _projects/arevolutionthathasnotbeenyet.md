@@ -19,7 +19,7 @@ images:
 - path: https://raw.githubusercontent.com/lavulcanizadora/lavulcanizadora/main/uploads/una-revolucion/unarevolucion-7.jpg
 - path: https://raw.githubusercontent.com/lavulcanizadora/lavulcanizadora/main/uploads/una-revolucion/unarevolucion-8.jpg
 cover: https://raw.githubusercontent.com/lavulcanizadora/lavulcanizadora/main/uploads/project-covers/unarevolucion-cover.png
-
+project-order: 8
 ---
 “-A revolution that has not been yet- by María Rojas, shows in the rooms of the House Museum Jorge Eliécer Gaitán – and related to objects of the family memories of Gaitan – moving pictures of a family memory refered to Los Bolcheviques del Líbano (The Blosheviks of Líbano). The unavoidable tension towards the picture that the memory expresses finds here an opportunity for a privileged ethical verification: “By those who will come”, clarifies Walter Benjamin, “we do not pretend to be thanked for our victories, but to be remembered for our defeats”. Here, to remember has a very prolific and specific meaning; for the one who remembers, the past has the shape of that dream that, remembered upon awakening, has to be related to the world of wakefulness.
 <br>
