@@ -7,7 +7,7 @@ details: |-
 images:
 - path: https://raw.githubusercontent.com/lavulcanizadora/lavulcanizadora/main/uploads/cortacabezas/cortacabezas-1.jpg
 cover: https://raw.githubusercontent.com/lavulcanizadora/lavulcanizadora/main/uploads/project-covers/cortacabezas-cover.png
-
+project-order: 13
 ---
 In 2005, the President of Colombia received a letter from the Association of Indigenous Councils of the Amazon Trapezium to take charge of investigating strange events in their territory.
 <br>
