@@ -26,7 +26,7 @@ images:
 - path: https://raw.githubusercontent.com/lavulcanizadora/lavulcanizadora/main/uploads/no-hay-monte-sin-sol/no-hay-monte-sin-sol-9.jpg
 - path: https://raw.githubusercontent.com/lavulcanizadora/lavulcanizadora/main/uploads/no-hay-monte-sin-sol/no-hay-monte-sin-sol-10.jpg
 cover: https://raw.githubusercontent.com/lavulcanizadora/lavulcanizadora/main/uploads/project-covers/nohaymontesinsol-cover.png
-
+project-order: 6
 ---
 This is how it begins: inside a box, a travel camera, a super 8 camera, an audio recorder, and a letter. This box travels by mail for an entire year to different parts of the country—Tolima, Norte de Santander, Chocó, Vichada, Antioquia, Cundinamarca—, to places where the artists who are part of this meeting gather. This practice of collective creation is based on filmic correspondences around narratives about memory, archive, and territory, circulating outside the virtual platforms and, alternatively, using, re-imagining and sharing narratives that fall to a common practice.
 <br>
