@@ -52,49 +52,6 @@ plugins:
 #   - vendor/gems/
 #   - vendor/ruby/
 
-collections:
-    projects:
-        output: true
-        order:
-            - yarokamena.md
-            - openmountain.md
-            - therebirthofcarare.md
-            - nohillwithoutsun.md
-            - openmountainaspectratio.md
-            - planosmonteymontaje.md
-            - fu.md
-            - arevolutionthathasnotbeenyet.md
-            - wewerealwayshereno.md
-            - pisostermicos.md
-            - archiviolitica.md
-            - welcomeinterplanetaryandsiderealspaceconquerors.md
-            - yvuuhzaokaina.md
-            - cortacabezas.md
-            - marandua.md
-            - theplacesspeak.md
-            - whenthesunriseslikearedbomb.md
-
-    proyectos:
-        output: true
-        order:
-            - yarokamena.md
-            - abrirmonte.md
-            - elrenacerdelcarare.md
-            - nohaymontesinsol.md
-            - abrirmonterelaciondeaspecto.md
-            - planosmonteymontaje.md
-            - fu.md
-            - unarevolucionqueaunnohasido.md
-            - siemprehemosestadoaquino.md
-            - pisostermicos.md
-            - archiviolitica.md
-            - bienvenidosconquistadoresinterplanetarios.md
-            - yvuuhzaokaina.md
-            - cortacabezas.md
-            - marandua.md
-            - hablanloslugares.md
-            - cuandoelsolamaneces.md
-
 defaults:
     - scope:
           path: "_projects"
