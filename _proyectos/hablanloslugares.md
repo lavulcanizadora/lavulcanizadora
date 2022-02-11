@@ -10,6 +10,7 @@ images:
 - path: https://raw.githubusercontent.com/lavulcanizadora/lavulcanizadora/main/uploads/hablan-los-lugares/hablan-los-lugares-5.jpg
 - path: https://raw.githubusercontent.com/lavulcanizadora/lavulcanizadora/main/uploads/hablan-los-lugares/hablan-los-lugares-6.jpg
 cover: https://raw.githubusercontent.com/lavulcanizadora/lavulcanizadora/main/uploads/project-covers/hablanloslugares-cover.png
+project-order: 160
 
 ---
 Este programa reúne cortometrajes de 9 artistas colombianos. Las prácticas con material cinematográfico expresan una cercanía en la experimentación de las formas. Impresiones de luz los conectan sensatamente con imágenes que difieren de los modelos de producción industrializados. Estas experiencias anuncian procesos íntimos, revelados por ellos mismos en sus laboratorios, donde las imágenes de tales lugares hablan de una manera diferente a la audiencia. La vacilación, las aproximaciones, las iluminaciones, son las venas que conectan estas obras.
