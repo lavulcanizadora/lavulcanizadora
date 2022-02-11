@@ -9,7 +9,7 @@ details: |-
 images:
 - path: https://raw.githubusercontent.com/lavulcanizadora/lavulcanizadora/main/uploads/bienvenidos-conquistadores/bienvenidos-conquistadores-1.jpg
 cover: https://raw.githubusercontent.com/lavulcanizadora/lavulcanizadora/main/uploads/project-covers/bienvenidos-conquistadores-cover.png
-project-order: 12
+project-order: 120
 
 ---
 En los años 60, como parte del entrenamiento para el viaje a la luna, los astronautas norteamericanos eran abandonados en las selvas tropicales del Darién. En este ejercicio de supervivencia Neil Armstrong se encuentra con un nativo, intercambia algunos objetos, súbitamente un terror invade su cuerpo.
