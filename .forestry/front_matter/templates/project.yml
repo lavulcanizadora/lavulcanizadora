@@ -25,5 +25,16 @@ fields:
   config:
     required: false
   label: cover
+- name: project_order
+  type: number
+  label: 'Project order:'
+  description: Input a number to place the project on the project list.
+  default: 0
+  required: true
+  config:
+    min: 
+    max: 
+    step: 
+    required: true
 pages:
 - _proyectos/yarokamena.md
