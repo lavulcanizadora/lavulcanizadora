@@ -24,6 +24,7 @@ images:
 - path: https://raw.githubusercontent.com/lavulcanizadora/lavulcanizadora/main/uploads/pisos-termicos/pisos-termicos-12.jpg
 - path: https://raw.githubusercontent.com/lavulcanizadora/lavulcanizadora/main/uploads/pisos-termicos/pisos-termicos-13.jpg
 cover: https://raw.githubusercontent.com/lavulcanizadora/lavulcanizadora/main/uploads/project-covers/pisostermicos-cover.png
+project-order: 90
 
 ---
 En esta exposición se configuran imágenes que despliegan temperaturas, colores, texturas, cuerpos, y violencias que entre el deseo y el rechazo se relocalizan, saltan entre pisos de calores y fríos, negros y blancos, y con cada salto una mueca. Pero esas muecas y garabatos vienen de una deconstrucción del concepto de Pisos Térmicos que la biología acotó para entender la geografía humana y se traslado a la lectura psicológica y de costumbres de los pueblos. Aquí revelamos algunas infidencias chabacanas de los actores que crearon estos pisos. Los artistas tejieron y desenredaron algunas tramas vibrantes del clima como lente de la cultura.
