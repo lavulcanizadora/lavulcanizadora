@@ -15,6 +15,7 @@ images:
 - path: https://64.media.tumblr.com/f99e9ebf2d4098ed3b9944d8b73d830e/d63730623ff581e3-51/s2048x3072/69040b10818b4623b5e5a4d66c116a30475e477e.jpg
   images: "/uploads/yarokamena/yarokamena-3.jpg"
 cover: https://raw.githubusercontent.com/lavulcanizadora/lavulcanizadora/main/uploads/project-covers/yarokamena-cover.jpg
+project-order: 10
 
 ---
 Esta es la historia de un Indígena Uitoto que organizó una resistencia armada ante la explotación cauchera a principios del siglo XX en la Casa Arana. Yarokamena, invoca las fuerzas espirituales y cósmicas de la guerra liberando de su contenedor su poder destructor que termina por crear una espiral de traición y muerte. Este notable relato fue prohibido por las autoridades tradicionales por su potencialidad para atraer a los jóvenes a la revuelta y funcionar como un estímulo para recurrir a la brujería.
