@@ -14,6 +14,7 @@ images:
 - path: https://raw.githubusercontent.com/lavulcanizadora/lavulcanizadora/main/uploads/el-renacer-del-carare/el-renacer-del-carare-4.jpg
 cover: https://raw.githubusercontent.com/lavulcanizadora/lavulcanizadora/main/uploads/project-covers/elrenacerdelcarare-cover.png
 video-url: https://player.vimeo.com/video/424046100?portrait=0
+project-order: 30
 
 ---
 El Renacer del Carare es un guion de 19 páginas para una presentación de diapositivas (diaporama) realizado alrededor de 1987 por la Asociación de Trabajadores Campesinos del Carare (ATCC) y CELA Productions. Su propósito fundamental era convertirse en un manifiesto audiovisual que permitiera a la organización exponer las motivaciones de su conformación, las apuestas y los propósitos de su proyecto de vida, su futuro y las estrategias de acción colectiva llevadas a cabo hasta 1987.
