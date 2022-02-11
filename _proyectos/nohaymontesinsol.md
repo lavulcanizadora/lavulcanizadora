@@ -26,6 +26,7 @@ images:
 - path: https://raw.githubusercontent.com/lavulcanizadora/lavulcanizadora/main/uploads/no-hay-monte-sin-sol/no-hay-monte-sin-sol-9.jpg
 - path: https://raw.githubusercontent.com/lavulcanizadora/lavulcanizadora/main/uploads/no-hay-monte-sin-sol/no-hay-monte-sin-sol-10.jpg
 cover: https://raw.githubusercontent.com/lavulcanizadora/lavulcanizadora/main/uploads/project-covers/nohaymontesinsol-cover.png
+project-order: 60
 
 ---
 Así comienza: en una caja hay una cámara de viaje, una cámara súper 8mm, una grabadora de audio y una carta. Esta caja viaja durante un año por correo postal a diferentes partes del país — Tolima, Norte de Santander, Chocó, Vichada, Antioquia, Cundinamarca—, a lugares en donde se encuentran los artistas que hacen parte de este encuentro. Esta práctica de creación colectiva está basada en correspondencias fílmicas, en torno a narrativas sobre la memoria, el archivo y el territorio, circulando por fuera de las plataformas virtuales y, alternativamente, usando, reimaginando y compartiendo narrativas que se corresponden en una práctica común.
