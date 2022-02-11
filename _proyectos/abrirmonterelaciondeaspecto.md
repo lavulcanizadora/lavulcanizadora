@@ -23,6 +23,7 @@ images:
 - path: https://raw.githubusercontent.com/lavulcanizadora/lavulcanizadora/main/uploads/abrir-monte-relacion-de-aspecto/abrir-monte-relacion-de-aspecto-10.jpg
 - path: https://raw.githubusercontent.com/lavulcanizadora/lavulcanizadora/main/uploads/abrir-monte-relacion-de-aspecto/abrir-monte-relacion-de-aspecto-11.jpg
 cover: https://raw.githubusercontent.com/lavulcanizadora/lavulcanizadora/main/uploads/project-covers/abrir-monte-relacion-de-aspecto-cover.png
+project-order: 40
 
 ---
 Esta exposición está imaginada como una sucesión de planos de una película. Es un filme instalado en el espacio, un montaje de imágenes-tiempo traducidas al contexto de exhibición.
