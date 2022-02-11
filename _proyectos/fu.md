@@ -15,6 +15,7 @@ images:
 - path: https://raw.githubusercontent.com/lavulcanizadora/lavulcanizadora/main/uploads/fu/fu-5.jpg
 - path: https://raw.githubusercontent.com/lavulcanizadora/lavulcanizadora/main/uploads/fu/fu-6.jpg
 cover: https://raw.githubusercontent.com/lavulcanizadora/lavulcanizadora/main/uploads/project-covers/fu-cover.png
+project-order: 70
 
 ---
 Fu es el dios del sueño en la cosmogonía Muísca, a quien se le rendía culto en la isla grande de la laguna de "Fúquene", que significa "el lecho del dios Fu". Este cuerpo de agua ubicado a 116 kilómetros de Bogotá tiende a la desaparición. Quienes nacieron aquí, rodeados por el Junco y la Enea (plantas que crecen en la laguna), han dedicado su vida a tejerlas.
