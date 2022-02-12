@@ -24,7 +24,7 @@ description: >-
     We are a creative laboratory in Cinema, Visual Arts, and Expanded Theater.
 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://lavulcanizadora.com" # the base hostname & protocol for your site, e.g. http://example.com
+url: "http://lavulcanizadora.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username:
 github_username: lavulcanizadora
 
