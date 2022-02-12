@@ -10,6 +10,7 @@ details: |-
 images:
 - path: https://raw.githubusercontent.com/lavulcanizadora/lavulcanizadora/main/uploads/bienvenidos-conquistadores/bienvenidos-conquistadores-1.jpg
 cover: https://raw.githubusercontent.com/lavulcanizadora/lavulcanizadora/main/uploads/project-covers/bienvenidos-conquistadores-cover.png
+project-order: 120
 
 ---
 In the 1960s, as part of the moon trip training, American astronauts were abandoned in the Darien rainforests. In this survival exercise, Neil Armstrong meets a native, exchanges some objects, suddenly a terror invades his body. Did you think you would be beheaded, skinned, and eaten by a wild cannibal?
