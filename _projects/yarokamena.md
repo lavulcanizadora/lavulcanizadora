@@ -12,6 +12,7 @@ images:
 - path: https://raw.githubusercontent.com/lavulcanizadora/lavulcanizadora/main/uploads/yarokamena/yarokamena-2.jpg
 - path: https://raw.githubusercontent.com/lavulcanizadora/lavulcanizadora/main/uploads/yarokamena/yarokamena-3.jpg
 cover: https://raw.githubusercontent.com/lavulcanizadora/lavulcanizadora/main/uploads/project-covers/yarokamena-cover.jpg
+project-order: 10
 
 ---
 This is the story of a Uitoto indigenous person who organized armed resistance to rubber exploitation at the beginning of the 20th century in Casa Arana. Yarokamena, invokes the spiritual and cosmic forces of war, releasing its destructive power from its container that ends up creating a spiral of betrayal and death. This remarkable tale was banned by traditional authorities for its potential to attract young people to revolt and function as a stimulus to resort to witchcraft.
