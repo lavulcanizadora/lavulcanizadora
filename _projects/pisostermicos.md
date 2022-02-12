@@ -24,6 +24,7 @@ images:
 - path: https://raw.githubusercontent.com/lavulcanizadora/lavulcanizadora/main/uploads/pisos-termicos/pisos-termicos-12.jpg
 - path: https://raw.githubusercontent.com/lavulcanizadora/lavulcanizadora/main/uploads/pisos-termicos/pisos-termicos-13.jpg
 cover: https://raw.githubusercontent.com/lavulcanizadora/lavulcanizadora/main/uploads/project-covers/pisostermicos-cover.png
+project-order: 90
 
 ---
 In this exhibition, images are configured that display temperatures, colors, textures, bodies, and violence that relocate between desire and rejection, jump between floors of hot and cold, black and white, and with each jump a grimace. But those grimaces and doodles come from a deconstruction of the concept of Pisos Térmicos that biology delimited to understand human geography and moved to the psychology to make customs readings of the people. Here we reveal some shabby secrets of the actors who created these flats. The artists wove and untangled some vibrant wefts of the climate as the lens of culture.
