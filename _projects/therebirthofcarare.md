@@ -14,6 +14,7 @@ images:
 - path: https://raw.githubusercontent.com/lavulcanizadora/lavulcanizadora/main/uploads/el-renacer-del-carare/el-renacer-del-carare-4.jpg
 cover: https://raw.githubusercontent.com/lavulcanizadora/lavulcanizadora/main/uploads/project-covers/elrenacerdelcarare-cover.png
 video-url: https://player.vimeo.com/video/424046100?portrait=0
+project-order: 30
 
 ---
 The Rebirth of Carare is a 19 pages script for a slide shots presentation (diaporama) made around 1987 by the Association of Rural Workers of Carare (ATCC) and CELA Productions. Its fundamental purpose was to become an audiovisual manifesto that would allow the organization to expose the motivations of its conformation, the bets, and purposes of its life project, its future and the collective action strategies carried out until 1987.
