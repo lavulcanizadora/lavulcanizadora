@@ -15,6 +15,7 @@ images:
 - path: https://raw.githubusercontent.com/lavulcanizadora/lavulcanizadora/main/uploads/fu/fu-5.jpg
 - path: https://raw.githubusercontent.com/lavulcanizadora/lavulcanizadora/main/uploads/fu/fu-6.jpg
 cover: https://raw.githubusercontent.com/lavulcanizadora/lavulcanizadora/main/uploads/project-covers/fu-cover.png
+project-order: 70
 
 ---
 Fu is the God of the dreams in the Muisca cosmogony, who was worshiped on the big island of the "Fúquene" lagoon, which means "the bed of the God Fu". This lagoon is located 116 kilometres from Bogota and tends to disappear. Those who were born here, surrounded by the "Junco" and the "Enea" (plants that grow in the lagoon), have dedicated their lives to weave them.
