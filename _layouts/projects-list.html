@@ -2,6 +2,8 @@
 layout: main
 ---
 
+<script>console.log({{ site.projects | json }});</script>
+
 <div class="projects-list-wrapper">
 	<!--
 	{% if page.language == "en" %} {% assign i = 0 %} {% for i in (0..site.projects.size) %} {% for
@@ -23,7 +25,7 @@ layout: main
 	</li>
 	{% endif %} {% endfor %} {% endfor %} {% endif %}
 	-->
-
+	
 	{% if page.language == "en" %} {% for project in site.projects %}
 	<div class="project-list-element">
 		<a href="{{ project.url | prepend: site.baseurl }}">
