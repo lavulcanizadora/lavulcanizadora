@@ -23,6 +23,7 @@ images:
 - path: https://raw.githubusercontent.com/lavulcanizadora/lavulcanizadora/main/uploads/abrir-monte-relacion-de-aspecto/abrir-monte-relacion-de-aspecto-10.jpg
 - path: https://raw.githubusercontent.com/lavulcanizadora/lavulcanizadora/main/uploads/abrir-monte-relacion-de-aspecto/abrir-monte-relacion-de-aspecto-11.jpg
 cover: https://raw.githubusercontent.com/lavulcanizadora/lavulcanizadora/main/uploads/project-covers/abrir-monte-relacion-de-aspecto-cover.png
+project-order: 40
 
 ---
 This exhibition is conceived as a succession of shots from a movie. It is a film settled down in space; a montage of time-images translated into the context of the exhibition.
