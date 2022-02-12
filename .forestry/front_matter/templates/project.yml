@@ -37,4 +37,5 @@ fields:
     step: 
     required: true
 pages:
+- _proyectos/test.md
 - _proyectos/yarokamena.md
