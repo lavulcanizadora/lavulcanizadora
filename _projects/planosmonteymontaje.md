@@ -20,5 +20,6 @@ images:
 - path: https://raw.githubusercontent.com/lavulcanizadora/lavulcanizadora/main/uploads/planos-monte-montaje/planos-monte-montaje-4.jpg
 - path: https://raw.githubusercontent.com/lavulcanizadora/lavulcanizadora/main/uploads/planos-monte-montaje/planos-monte-montaje-5.jpg
 cover: https://raw.githubusercontent.com/lavulcanizadora/lavulcanizadora/main/uploads/project-covers/planosmontemontaje-cover.png
+project-order: 50
 
 ---
