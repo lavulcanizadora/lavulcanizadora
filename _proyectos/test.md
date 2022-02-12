@@ -5,7 +5,6 @@ media: test
 details: test
 images: []
 cover: ''
-published: false
 
 ---
 test
