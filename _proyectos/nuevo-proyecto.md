@@ -2,7 +2,7 @@
 title: nuevo-proyecto
 media: film
 details: |-
-  Dirigido por Andrés Jurado \
+  Dirigido por Andrés Jurado
   2022\
   \
   16mm transfer 4k \
