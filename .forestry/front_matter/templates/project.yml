@@ -37,5 +37,4 @@ fields:
     step: 
     required: true
 pages:
-- _proyectos/nuevo-proyecto.md
 - _proyectos/yarokamena.md
