@@ -15,11 +15,11 @@ fields:
   name: images
   label: images
   fields:
-  - name: images
-    type: file
+  - name: path
+    type: text
     config:
-      maxSize: 64
-    label: images
+      required: false
+    label: path
 - name: cover
   type: text
   config:
